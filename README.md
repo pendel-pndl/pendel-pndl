@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## wassup 👋
+- 👑 Owner of PNDL
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: @zf9q (Discord), @pendelvitano (Guilded)
+- 🌱 I'm currently learning C#
 <!--
 **pendel-pndl/pendel-pndl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
