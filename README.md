@@ -1,9 +1,4 @@
-## sup 👋
-- 👑 Owner of PNDL
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: @zf9q (Discord), @pendelvitano (Guilded)
-- 🌱 I'm currently learning C# and Python
-- 🔭 I’m currently working on multiple Discord raiding and WEEHEE HAKC tools
+woooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.
 <!--
 **pendel-pndl/pendel-pndl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
